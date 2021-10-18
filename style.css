@@ -3,5 +3,14 @@ body {
    color:white;
 }
 h1 {
-  font-family:
+  font-family:  'PT Sans Caption', sans-serif;
+  text-align: center
+}
+p {
+   font-family: 'PT Sans', sans-serif;
+}
+hr {
+  height:0px;
+  margin-top:-10px;
+  border-color:white
 }
