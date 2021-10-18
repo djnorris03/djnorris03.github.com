@@ -17,3 +17,28 @@ hr {
 pre {
   font-family: 'PT Sans', sans-serif;
 }
+ul {
+  font-family: 'PT Sans', sans-serif;
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  background-color:white;
+  overflow:hidden;
+}
+li {
+  display:inline;
+  float: center;
+  
+
+}
+li a{
+  display:block;
+  color:black;
+  
+}
+]
+a{
+  display:block;
+  padding:8px;
+  background-color:white;
+}
