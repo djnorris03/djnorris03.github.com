@@ -25,6 +25,7 @@ ul {
   background-color:black;
   overflow:hidden;
   position: sticky;
+  
 }
 li {
   display:inline;
